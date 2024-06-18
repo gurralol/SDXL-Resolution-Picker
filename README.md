@@ -1,3 +1,5 @@
+![alt text](https://github.com/gurralol/SDXL-Resolution-Picker/blob/main/sdxlresolutionpicker.png?raw=true)
+
 # Installation instructions:
 1. Open Automatic1111 WebUI.
 2. Click the "Extensions" tab.
